@@ -17,7 +17,7 @@ const HeroSection = () => {
         <div
           data-aos="fade-right"
           data-aos-duration="3000"
-          className="text-center mx-20 text-lg mr-20 mt-8 flex justify-end"
+          className="text-center mx-20 text-lg mt-8"
         >
           Explore a Decentralized Marketplace Where Artists Thrive
           <br />
